@@ -1,0 +1,10 @@
+.play-all-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+  &:hover {
+    background-color: #45a049;
+  }
+}
